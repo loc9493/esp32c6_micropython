@@ -60,3 +60,7 @@ ADV_APPEARANCE_GENERIC_THERMOMETER = const(960)
 # How frequently to send advertising beacons.
 ADV_INTERVAL_MS = 250_000
 
+#TFT
+TFT_CS = 15
+TFT_RST        = 22
+TFT_DC         = 23
